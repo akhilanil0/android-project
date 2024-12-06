@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cell_size">35dp</dimen>
+    <dimen name="grid_line_major">3dp</dimen>
+    <dimen name="grid_line_minor">1dp</dimen>
+    <dimen name="grid_padding">3dp</dimen>
+    <dimen name="number_pad_size">45dp</dimen>
+    <dimen name="number_pad_margin">4dp</dimen>
+    <dimen name="number_pad_corner_radius">22dp</dimen>
+</resources> 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#FFC107</color>
+    <color name="cell_filled">#000000</color>
+    <color name="cell_prefilled">#1565C0</color>
+    <color name="cell_empty">#757575</color>
+    <color name="cell_error">#F44336</color>
+    <color name="cell_highlight">#E3F2FD</color>
+    <color name="grid_line_major">#000000</color>
+    <color name="grid_line_minor">#BDBDBD</color>
+    <color name="background">#FAFAFA</color>
+    <color name="number_pad_background">#E6E6FA</color>
+    <color name="number_pad_text">#2196F3</color>
+    <color name="control_button_text">#757575</color>
+</resources>
